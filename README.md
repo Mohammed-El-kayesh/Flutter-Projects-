@@ -1,2 +1,7 @@
 # Flutter-Projects-
-Iam a Fluttetr Developer 
+Shop App
+Using flutter (bloc&cubit)
+SQLflite
+API
+Simple design
+Applying update method in database 
